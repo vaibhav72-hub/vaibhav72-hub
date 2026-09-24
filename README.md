@@ -21,6 +21,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhav72-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=vaibhav72-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
