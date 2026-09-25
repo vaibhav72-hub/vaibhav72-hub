@@ -1,43 +1,35 @@
 <div align="center">
 
 # 🚀 Vaibhav Rajaram Pernole
-
 ### 📊 Data Analyst • 📈 BI Developer • 🤖 AI Engineer • ⚙️ Operational IT Manager
 
-Transforming complex data into actionable business intelligence through Analytics, Automation, AI, and Visualization.
+*Transforming complex data into actionable business intelligence through Analytics, Automation, AI, and Visualization.*
 
 <p align="center">
-
-<a href="https://vaibhavpernole.me">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-vaibhavpernolestyle=for-the-badge
-</a>
-
-https://www.linkedin.com/in/vaibhav-pernole-64234b2bb/
-<img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Pernole-0077B5?style=for&logo=linkedin&logoColor=white
-</a>
-
-<a href="mailto:vamail.com
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=golor=white
-</a>
-
+  <a href="https://vaibhavpernole.me">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-vaibhavpernole.me-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-pernole-64234b2bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Pernole-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaibhavpernole72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vaibhav72-hor-the-badge&color=0e75b6
+<img src="https://komarev.com/ghpvc/?username=vaibhav72-hub&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Data%20Analytics%20%7C%20AI%20Engineering40&fontColor=ffffff&animation=fadeIn
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Data%20Analytics%20%7C%20AI%20Engineering&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Vaibhav Rajaram Pernole**, a Data Analyst, BI Developer, and Operational IT Manager with expertise in building scalable analytics solutions, intelligent dashboards, automation systems, and AI-powered business workflows.
-
-I enjoy turning raw, fragmented datasets into meaningful visual insights that help organizations make data-driven decisions.
+I'm **Vaibhav Rajaram Pernole**, a Data Analyst, BI Developer, and Operational IT Manager with expertise in building scalable analytics solutions, intelligent dashboards, automation systems, and AI-powered business workflows. I enjoy turning raw, fragmented datasets into meaningful visual insights that help organizations make data-driven decisions.
 
 ### 🔭 Current Focus
-
 - 📊 Manufacturing Intelligence Dashboards
 - 🚚 Logistics & Transport Analytics
 - 🌍 Global Vendor Discovery Solutions
@@ -46,7 +38,6 @@ I enjoy turning raw, fragmented datasets into meaningful visual insights that he
 - ⚡ Data Automation & Web Scraping
 
 ### 🌱 Currently Learning
-
 - Azure Data Engineering
 - Cloud Data Warehousing
 - Advanced Machine Learning
@@ -54,38 +45,32 @@ I enjoy turning raw, fragmented datasets into meaningful visual insights that he
 - Enterprise Data Architecture
 
 ### ⚡ Fun Fact
-
 I have successfully extracted and mapped retail directories, commercial intelligence datasets, industrial supplier databases, and airport retail ecosystems across global markets.
 
 ---
 
-# 💼 Professional Snapshot
+## 💼 Professional Snapshot
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Analytics
-
-- Power BI
-- Tableau
-- DAX
+- Power BI & Tableau
+- DAX & Advanced Modeling
 - KPI Reporting
 - Executive Dashboards
-- Data Modeling
+- Data Warehousing Concepts
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Automation
-
-- Machine Learning
-- Python Automation
-- Data Enrichment
-- Web Scraping
-- Predictive Analytics
-- FastAPI Solutions
+- Machine Learning Integration
+- Python Automation & Scripting
+- Data Enrichment & Processing
+- Web Scraping (Selenium / BeautifulSoup)
+- FastAPI Solutions & Microservices
 
 </td>
 </tr>
@@ -93,146 +78,101 @@ I have successfully extracted and mapped retail directories, commercial intellig
 
 ---
 
-# 🏆 Highlights
+## 🏆 Highlights
 
-✅ Operational IT Manager at Road Grip Technologies
-
-✅ Certified AI Engineer
-
-✅ B.Tech (Artificial Intelligence & Machine Learning)
-
-✅ Business Intelligence Developer
-
-✅ Manufacturing Analytics Specialist
-
-✅ Logistics Intelligence Researcher
-
-✅ Developer of **vaibhavpernole.me**
+- **Operational IT Manager** at Road Grip Technologies
+- **Certified AI Engineer** & B.Tech in Artificial Intelligence & Machine Learning
+- **Business Intelligence & Manufacturing Analytics Specialist**
+- **Logistics Intelligence Researcher**
+- Developer of **[vaibhavpernole.me](https://vaibhavpernole.me)**
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🚀 Languages
-
+### 🚀 Languages & Core
 <p>
-<img src="https://skillicons.dev/thon,mysql,js,nodejs
+  <img src="https://skillicons.dev/icons?i=py,mysql,js,nodejs,git,github,docker" alt="Core Tech"/>
 </p>
 
-## 📊 BI & Data Analytics
-
+### 📊 BI & Data Analytics
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?the-badge&logo=powerbi&logoColor=black
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableor=white
-<img src="https://img.shields.io/badge/DAX-le=for-the-badge
-<img src="https://img.shields.io/badge/SQL-336791?styleadge
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=databricks&logoColor=black" alt="DAX"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-## 🤖 Data Science & AI
-
+### 🤖 Data Science & AI
 <p>
-<img src="https://skev/icons?i=tensorflow,pytorch
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML Frameworks"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
+### ⚡ Automation, APIs & Cloud
 <p>
-<img src="https://img.shields.io/badge0458?style=for-the-badge&logo=pandas
-<img src="https://img.shields.io/badge/N3?style=for-the-badge&logo=numpy
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?the-badge&logo=scikitlearn
-<img src="https://img.shields.io/badge/OpenCVyle=for-the-badge&logo=opencv
-</p>
-
-## ⚡ Automation & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Selenium-43B02r-the-badge&logo=selenium&logoColor=white
-<img src="https://img.shields.io/badge/FastAPI-009688-the-badge&logo=fastapi
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"https://img.shields.io/badge/MLflow-0194E2?style=for-the-
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i,docker,firebase,git,github
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav72-hub&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav72-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhaveme=tokyonight&hide_border=true
+### 📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav72-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/=tokyonight&hide_border=true
+### 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav72-hub&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav72-hub&theme=tokyonight&column=4&no-bg=true" alt="Trophies"/>
 </div>
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav72-hub&layout=eme=tokyonight&hide_border=true
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graphp/graph?username=vaibhav72-hub&theme=tokyo-night
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhav72-hub&theme=tokyon&column=7
-
-</div>
-
----
-
-# 🎯 Domain Expertise
+## 🎯 Domain Expertise
 
 | Domain | Specialization |
-|----------|----------------|
-| 🏭 Manufacturing Intelligence | KPI Monitoring, Vendor Analytics |
-| 🚚 Logistics Analytics | Route & Transport Intelligence |
-| ✈️ Airport Retail Analytics | Retail Mapping & Directory Intelligence |
-| 🤖 Artificial Intelligence | ML Applications & Predictive Analytics |
-| 📊 Business Intelligence | Executive Dashboards & Reporting |
-| 🌍 Market Intelligence | Data Collection & Lead Generation |
+| :--- | :--- |
+| 🏭 **Manufacturing Intelligence** | KPI Monitoring, Production Insights, Vendor Analytics |
+| 🚚 **Logistics Analytics** | Route Optimization & Transport Intelligence |
+| ✈️ **Airport Retail Analytics** | Commercial Mapping & Directory Intelligence |
+| 🤖 **Artificial Intelligence** | ML Applications & Predictive Analytics |
+| 📊 **Business Intelligence** | Executive Dashboards & Star Schema Modeling |
+| 🌍 **Market Intelligence** | Automated Data Collection & Lead Generation |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Manufacturing Intelligence Dashboard
-Enterprise-grade Power BI dashboard for production insights and KPI tracking.
-
-### 🌍 Vendor Intelligence Platform
-Global supplier discovery and procurement intelligence ecosystem.
-
-### ✈️ Airport Retail Intelligence
-Retail mapping and commercial analytics solution for international airport ecosystems.
-
-### 🚚 Logistics Analytics Suite
-Route optimization and logistics performance monitoring dashboard.
-
-### 🤖 AI Automation Framework
-Python-driven automation and intelligent data processing workflows.
+- **📊 Manufacturing Intelligence Dashboard:** Enterprise-grade Power BI solution for real-time production metrics and KPI tracking.
+- **🌍 Vendor Intelligence Platform:** Global supplier discovery and automated procurement data ecosystem.
+- **✈️ Airport Retail Intelligence:** Comprehensive retail mapping and commercial analytics solution for international airport hubs.
+- **🚚 Logistics Analytics Suite:** Advanced route performance and operations monitoring dashboard.
+- **🤖 AI Automation Framework:** Python-powered pipeline for automated data harvesting and processing workflows.
 
 ---
 
-# 🎓 Certifications
+## 🎓 Certifications
 
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence & Machine Learning Certification
 - Google for Developers AI Program
 - FutureSkills Prime Certification
 - NASSCOM IT-ITeS Certification
@@ -240,67 +180,48 @@ Python-driven automation and intelligent data processing workflows.
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - ✅ Become an Azure Data Engineer
-- ✅ Publish analytics-focused technical blogs
-- ✅ Contribute to open-source BI projects
-- ✅ Expand vaibhavpernole.me
+- ✅ Publish analytics-focused technical blogs & guides
+- ✅ Contribute to open-source BI and data tooling projects
+- ✅ Expand and optimize **vaibhavpernole.me**
 - ✅ Deploy production-grade ML solutions
 - ✅ Build advanced Manufacturing Intelligence Platforms
 
 ---
 
-# 🌐 Personal Website
+## 🌐 Personal Website
 
-## 🔗 Portfolio
-
-**Website:** https://vaibhavpernole.me
-
-Features:
-
-- Professional Profile
-- Project Showcase
-- Certifications
-- Technical Skills
-- Resume
-- Contact Information
-- Analytics Portfolio
+**Website:** [vaibhavpernole.me](https://vaibhavpernole.me)  
+*Explore my live portfolio, project breakdowns, technical skill matrices, and resume.*
 
 ---
 
-# 💡 Favorite Quote
+## 💡 Favorite Quote
 
-> "Without data, you're just another person with an opinion."
->
-> — W. Edwards Deming
+> *"Without data, you're just another person with an opinion."*  
+> — **W. Edwards Deming**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://vaibhavpernole.me">
-<img src="https://img.shields.io/badge/Portfolio-vaibhavpernole.me-black?style=for-logo=vercel&logoColor=white
-</a>
-
-<a href="https://www.com/in/vaibhav-pernole-64234b2bb/
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-theo=linkedin&logoColor=white
-</a>
-
-vaibhavpernole72@gmail.com
-<img src="https://img.shields.io/badge/Gmail-D14836?the-badge&logo=gmail&logoColor=white
-</a>
-
+  <a href="https://vaibhavpernole.me">
+    <img src="https://img.shields.io/badge/Portfolio-vaibhavpernole.me-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-pernole-64234b2bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaibhavpernole72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ Building Data Intelligence Solutions, AI Applications, and Business Analytics Systems
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50::2C5364&height=120&section=footer
-
+  <h3>⭐ Building Data Intelligence Solutions, AI Applications, and Business Analytics Systems</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&fontColor=ffffff" width="100%" alt="Footer"/>
 </div>
