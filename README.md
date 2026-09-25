@@ -17,8 +17,7 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=vaibhav72-hub&color=ffd700&style=for-the-badge&label=NEURAL%20VIEWS" alt="Profile Views"/>
+
 
 </div>
 
@@ -120,8 +119,7 @@ Successfully architected and executed automated data harvesting pipelines across
 ## 📈 System Metrics & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav72-hub&theme=vision_board_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <br/><br/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav72-hub&theme=vision_board_dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
