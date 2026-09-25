@@ -23,7 +23,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Data%20Analytics%20%7C%20AI%20Engineering&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaibhav72-hub/vaibhav72-hub/main/assets/ai-header.png" alt="AI Engineering & Data Analytics 3D Header" width="100%"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -223,5 +225,4 @@ I have successfully extracted and mapped retail directories, commercial intellig
 
 <div align="center">
   <h3>⭐ Building Data Intelligence Solutions, AI Applications, and Business Analytics Systems</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&fontColor=ffffff" width="100%" alt="Footer"/>
 </div>
