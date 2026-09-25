@@ -129,8 +129,9 @@ I have successfully extracted and mapped retail directories, commercial intellig
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav72-hub&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav72-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav72-hub&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav72-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ### 📊 Most Used Languages
