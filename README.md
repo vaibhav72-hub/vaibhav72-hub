@@ -28,11 +28,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:332701&height=220&section=header&text=Data%20Analytics%20%7C%20AI%20Engineering&fontSize=28&fontColor=FFD700&animation=fadeIn&fontAlignY=38" width="100%" alt="Black & Gold AI Header"/>
 </p>
 
-<!-- Solid White Typing Status Lines -->
+<!-- Adaptive Typing Lines (Black in Light Mode, White in Dark Mode) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Building+AI-Powered+Workflows;Architecting+Manufacturing+Intelligence" alt="White Typing SVG"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Building+AI-Powered+Workflows;Architecting+Manufacturing+Intelligence">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Building+AI-Powered+Workflows;Architecting+Manufacturing+Intelligence">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Building+AI-Powered+Workflows;Architecting+Manufacturing+Intelligence" alt="Typing Status Line 1">
+  </picture>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Optimizing+Global+Logistics+Pipelines;Transforming+Data+into+Visual+Power" alt="White Typing SVG"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Optimizing+Global+Logistics+Pipelines;Transforming+Data+into+Visual+Power">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Optimizing+Global+Logistics+Pipelines;Transforming+Data+into+Visual+Power">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&height=40&lines=Optimizing+Global+Logistics+Pipelines;Transforming+Data+into+Visual+Power" alt="Typing Status Line 2">
+  </picture>
 </p>
 ---
 
