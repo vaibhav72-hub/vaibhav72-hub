@@ -23,8 +23,9 @@
 
 ---
 
+<!-- AI Circuit Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhav72-hub/vaibhav72-hub/main/assets/ai-header.png" alt="AI Engineering & Data Analytics 3D Header" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" alt="AI Engineering & Data Analytics Header" style="border-radius: 8px;"/>
 </p>
 
 ## 👨‍💻 About Me
